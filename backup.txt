@@ -132,6 +132,7 @@
       <a href="#hibrido">Híbrido</a>
       <a href="#type-r">Type R</a>
       <a href="#noticias">Notícias</a>
+      <a href="https://creditopessoal.vercel.app/">Crédito pessoal e Seguros</a>
     </nav>
   </header>
 
